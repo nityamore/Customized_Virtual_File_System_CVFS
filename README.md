@@ -3,7 +3,7 @@ This project is a custom implementation of a Virtual File System(VFS) that simul
 
 # 📁 Customized Virtual File System (CVFS)
 
-A **Customized Virtual File System (CVFS)** developed in **C/C++** that simulates the working of an operating system's file management system. This project provides functionalities such as **file creation, reading, writing, deletion, permission handling, inode management, and command-based shell interaction**, similar to a real file system.
+A **Customized Virtual File System (CVFS)** developed in **C** that simulates the working of an operating system's file management system. This project provides functionalities such as **file creation, reading, writing, deletion, permission handling, inode management, and command-based shell interaction**, similar to a real file system.
 
 ---
 
@@ -52,7 +52,7 @@ This project helps understand **Operating System concepts**, especially **File M
 
 | Technology | Purpose |
 |------------|---------|
-| C/C++ | Core programming language |
+| C | Core programming language |
 | Data Structures | Linked List for Inode Management |
 | Memory Allocation | Dynamic Memory (`malloc`, `free`) |
 | Operating System Concepts | File System Simulation |
@@ -211,7 +211,7 @@ cd Customized-Virtual-File-System
 Using **g++ compiler**:
 
 ```bash
-g++ program555.cpp -o cvfs
+g++ cvfs.cpp -o myexe
 ```
 
 ---
@@ -221,13 +221,13 @@ g++ program555.cpp -o cvfs
 ### Linux / Mac
 
 ```bash
-./cvfs
+./myexe
 ```
 
 ### Windows
 
 ```bash
-cvfs.exe
+myexe.exe
 ```
 
 ---
@@ -393,15 +393,12 @@ By developing this project, one can learn:
 
 Some improvements that can be added in the future:
 
-- 🔹 File Encryption & Decryption  
-- 🔹 Password Protected Files  
-- 🔹 Directory Support  
-- 🔹 File Rename Feature  
-- 🔹 Copy/Paste File Functionality  
-- 🔹 Search File Feature  
-- 🔹 GUI Interface  
-- 🔹 Multi-user Access Support  
-- 🔹 File Compression
+-  File Encryption & Decryption  
+-  Password Protected Files  
+-  Directory Support  
+-  File Rename Feature  
+-  Copy/Paste File Functionality  
+-  ompression
 
 ---
 
@@ -410,7 +407,10 @@ Some improvements that can be added in the future:
 **Nitya Rajesh More**  
 
 Third Year Information Technology Student
-
+Search File Feature  
+- 🔹 GUI Interface  
+- 🔹 Multi-user Access Support  
+- 🔹 File C
 ---
 
 # ⭐ GitHub Tip
