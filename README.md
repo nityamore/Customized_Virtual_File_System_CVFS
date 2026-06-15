@@ -64,7 +64,7 @@ This project helps understand **Operating System concepts**, especially **File M
 
 ```text
 Customized-Virtual-File-System/
-│── program555.cpp      # Main source code
+│── cvfs.cpp            # Main source code
 │── README.md           # Project documentation
 ```
 
