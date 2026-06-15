@@ -398,7 +398,9 @@ Some improvements that can be added in the future:
 -  Directory Support  
 -  File Rename Feature  
 -  Copy/Paste File Functionality  
--  ompression
+-  GUI Interface  
+-  Multi-user Access Support  
+-  File C
 
 ---
 
@@ -408,9 +410,7 @@ Some improvements that can be added in the future:
 
 Third Year Information Technology Student
 Search File Feature  
-- 🔹 GUI Interface  
-- 🔹 Multi-user Access Support  
-- 🔹 File C
+
 ---
 
 # ⭐ GitHub Tip
